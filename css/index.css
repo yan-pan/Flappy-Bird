@@ -1,0 +1,22 @@
+#canvas{
+	border: 1px solid #000;
+	position: absolute;
+	left:50%;
+	top:0px;
+	margin-left: -160px;
+	background: url(../image/001.jpg) 
+}
+#btn1{
+	position: absolute;
+	top:40%;
+	left: 46%;
+	display: block;
+	/* width:100px;
+	height: 60px; */
+}
+#btn2{
+	position: absolute;
+	top:30%;
+	left: 46%;
+	display: none;
+}
