@@ -18,8 +18,8 @@
 }
 #btn2{
 	position: absolute;
-	top:30%;
-	left: 46%;
+	top:40%;
+	left: 42%;
 	display: none;
 }
 @media(max-width:640px){
@@ -28,5 +28,6 @@
 	}
 	#btn2{
     left:22%;
+    top:50%;
 	}
 }
