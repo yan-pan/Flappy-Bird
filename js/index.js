@@ -53,11 +53,9 @@ window.onload=function(){
 		if(d.top.x<=-d.top.w){
 			d.top.x=500;
 			d.bottom.x=500;
-            
-            d.top.h=Math.random()*390+10;
-            d.bottom.h=568-d.top.h-160;
-            d.bottom.y=d.top.h+160;
-			
+			d.top.h=Math.random()*90+100;
+            d.bottom.h=568-d.top.h-200;
+            d.bottom.y=d.top.h+200;
 		}
 		if(vs){
 			btn2.style.display="block";

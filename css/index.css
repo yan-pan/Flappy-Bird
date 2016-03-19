@@ -4,7 +4,9 @@
 	left:50%;
 	top:0px;
 	margin-left: -160px;
-	background: url(../image/001.jpg) 
+	background: url(../image/t016efc76aaed71a4b8.png) ;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 #btn1{
 	position: absolute;
@@ -20,3 +22,11 @@
 	left: 46%;
 	display: none;
 }
+/*@media(max-width:640px){
+		#canvas #btn1{
+	    width:89px;
+		}
+		#canvas #btn2{
+	    left:40%;
+		}
+	}*/
