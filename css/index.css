@@ -22,11 +22,11 @@
 	left: 46%;
 	display: none;
 }
-/*@media(max-width:640px){
-		#canvas #btn1{
-	    width:89px;
-		}
-		#canvas #btn2{
-	    left:40%;
-		}
-	}*/
+@media(max-width:640px){
+	#btn1{
+    left:38%;
+	}
+	#btn2{
+    left:22%;
+	}
+}
